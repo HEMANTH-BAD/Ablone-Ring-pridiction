@@ -14,7 +14,7 @@ Categorical: Sex (Male, Female, Infant)
 
 Target Variable: Rings (indicator of age)
 
-📥 Source: UCI Machine Learning Repository - Abalone Dataset
+Source: UCI Machine Learning Repository - Abalone Dataset
 
 Approach
 Data Preprocessing
@@ -67,10 +67,5 @@ Hyperparameter tuning for better accuracy
 
 Deploy as a web app for real-time predictions
 
-Contributing
-Contributions are welcome! Open an issue or submit a PR.
-
-📧 Contact: [Your Email]
-🔗 LinkedIn: [Your Profile]
 
 #MachineLearning #DataScience #Aquaculture #Regression
